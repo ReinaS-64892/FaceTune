@@ -1,4 +1,3 @@
-using UnityEditorInternal;
 using com.aoyon.facetune.Settings;
 using System.IO;
 
